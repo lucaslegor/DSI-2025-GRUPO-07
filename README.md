@@ -29,10 +29,10 @@ Aquí se organizarán los diferentes trabajos e informes generados a lo largo de
 
 ## Contacto y Referencias
 
-Cualquier consulta o comentario relacionado con los trabajos desarrollados puede dirigirse a los miembros del grupo.
+Cualquier consulta o comentario relacionado con los trabajos desarrollados puede dirigirse a los miembros del grupo o hacerlo por este mismo medio.
 ### Emails
-**Legorlucas81@gmail.com**
-**Lucagiordani2021@gmail.com**
-**Joaco.rodriguez800@gmail.com**
-**facudevida5@gmail.com**
-```
+* **Legorlucas81@gmail.com**
+* **Lucagiordani2021@gmail.com**
+* **Joaco.rodriguez800@gmail.com**
+* **facudevida5@gmail.com**
+
