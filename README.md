@@ -23,7 +23,7 @@ A continuación, se listan los miembros que componen el equipo de trabajo:
 ## Estructura del Repositorio
 
 Aquí se organizarán los diferentes trabajos e informes generados a lo largo del cursado. Se recomienda mantener una estructura clara para facilitar la revisión y el seguimiento del progreso.
-### Modelado de Dominio
+### 1 - Modelado de Dominio
 
 ---
 
